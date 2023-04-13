@@ -1,0 +1,1 @@
+This is an updated version of [robo-friends](https://github.com/MarceloLopezS/robo-friends) that includes React Hooks instead of Class Components.
